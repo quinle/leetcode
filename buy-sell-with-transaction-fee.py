@@ -16,3 +16,6 @@ class Solution(object):
             print(cash,hold)
             
         return cash
+
+        ##Time complexity: O(n), n = len(prices)
+        ##Space complexity: O(1), variables are cash and hold

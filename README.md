@@ -1,2 +1,2 @@
 # leetcode
-solutions for leetcode, cute
+solutions with explanation for leetcode
